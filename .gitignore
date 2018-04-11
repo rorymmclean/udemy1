@@ -1,3 +1,8 @@
 node_modules/
 class_files/
 public/dist/
+.env.development
+.env.development copy
+.env.test
+.env.test copy
+r-20-02-boilerplate.zip
