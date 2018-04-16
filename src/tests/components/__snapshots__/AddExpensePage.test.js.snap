@@ -11,7 +11,7 @@ exports[`should render AddExpensePage correctly 1`] = `
       <h1
         className="page-header__title"
       >
-        Add Expense
+        Add Your New Expense
       </h1>
     </div>
   </div>
