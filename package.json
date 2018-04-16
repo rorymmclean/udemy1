@@ -1,8 +1,8 @@
 {
-  "name": "expensify",
+  "name": "aderas_expenses",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Andrew Mead",
+  "author": "Rory McLean",
   "license": "MIT",
   "scripts": {
     "build:dev": "webpack",
