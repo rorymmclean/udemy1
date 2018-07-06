@@ -5,6 +5,8 @@ yarn run dev-server
 yarn test -- --watch
 
 git add .
+
 git commit -m "Commit Message"
+
 git push
 
