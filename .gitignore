@@ -1,6 +1,5 @@
 node_modules/
 class_files/
-public/dist/
 .env.development
 .env.development copy
 .env.test
