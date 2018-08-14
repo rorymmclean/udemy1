@@ -12,7 +12,6 @@ import 'react-dates/lib/css/_datepicker.css';
 import { firebase } from './firebase/firebase';
 import LoadingPage from './components/LoadingPage';
 import LogRocket from 'logrocket';
-import LogRocket from 'logrocket';
 import setupLogRocketReact from 'logrocket-react';
 
 LogRocket.init('eqkymk/expenses');
