@@ -13,6 +13,7 @@ import { firebase } from './firebase/firebase';
 import LoadingPage from './components/LoadingPage';
 import LogRocket from 'logrocket';
 LogRocket.init('eqkymk/expenses');
+LogRocket.identify('Rory')
 
 const store = configureStore();
 const jsx = (
